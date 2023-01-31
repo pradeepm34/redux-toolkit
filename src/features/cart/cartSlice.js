@@ -13,6 +13,4 @@ const cartSlice = createSlice({
   initialState,
 });
 
-console.log(cartSlice);
-
 export default cartSlice.reducer;
